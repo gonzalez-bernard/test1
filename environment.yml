@@ -3,7 +3,7 @@ channels:
   - defaults
 dependencies:
 dependencies:
-  - python==3.4
+  - python>=3.4
   - numpy
   - toolz
   - matplotlib
